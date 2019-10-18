@@ -2,8 +2,13 @@
 社外活動のヒストリーをメモ
 
 ## Oracle時代
-- Slideshare
 - Oracle Cloud Meetup Okinawa
+
+- Modern Cloud Days
+  https://ascii.jp/elem/000/001/932/1932388/
+
+- Slideshare
+
 
 ## ネットワンシステムズ時代
 - cndjp
