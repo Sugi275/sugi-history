@@ -2,6 +2,11 @@
 社外活動のヒストリーをメモ
 
 ## Oracle時代
+
+- OCIJP#2
+
+  https://www.slideshare.net/SuguruSugiyama/oci-serverless-introduction
+
 - Oracle Cloud Meetup Okinawa
 
   https://oraclecloudokinawa.connpass.com/event/138265/
@@ -11,7 +16,7 @@
   https://ascii.jp/elem/000/001/932/1932388/
 
 - Slideshare
-
+  https://www.slideshare.net/SuguruSugiyama/
 
 ## ネットワンシステムズ時代
 - cndjp
