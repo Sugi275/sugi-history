@@ -4,7 +4,10 @@
 ## Oracle時代
 - Oracle Cloud Meetup Okinawa
 
+  https://oraclecloudokinawa.connpass.com/event/138265/
+
 - Modern Cloud Days
+
   https://ascii.jp/elem/000/001/932/1932388/
 
 - Slideshare
