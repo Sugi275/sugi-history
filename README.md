@@ -25,6 +25,7 @@
 
 - Japan Container Days
 
+  https://speakerdeck.com/cndjp/jkd-v18-dot-12-2w3
   https://www.youtube.com/watch?v=HJmRS79imQA
 
 - JAWS
