@@ -3,6 +3,10 @@
 
 ## Oracle時代
 
+- ServerlessDays Tokyo 2019
+
+  https://www.slideshare.net/SuguruSugiyama/oracle-serverless
+
 - OCIJP#2
 
   https://www.slideshare.net/SuguruSugiyama/oci-serverless-introduction
@@ -16,6 +20,7 @@
   https://ascii.jp/elem/000/001/932/1932388/
 
 - Slideshare
+
   https://www.slideshare.net/SuguruSugiyama/
 
 ## ネットワンシステムズ時代
@@ -26,6 +31,7 @@
 - Japan Container Days
 
   https://speakerdeck.com/cndjp/jkd-v18-dot-12-2w3
+  
   https://www.youtube.com/watch?v=HJmRS79imQA
 
 - JAWS
