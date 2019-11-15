@@ -3,6 +3,10 @@
 
 ## Oracle時代
 
+- OCHaCafe2 #3 Serverlessな世界をのぞいてみよう！
+
+  https://speakerdeck.com/sugimount/lets-dive-serverless-world
+
 - ServerlessDays Tokyo 2019
 
   https://www.slideshare.net/SuguruSugiyama/oracle-serverless
