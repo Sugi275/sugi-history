@@ -3,6 +3,8 @@
 
 ## Oracle時代
 
+- T社向け新卒勉強会
+
 - OCHaCafe2 #3 Serverlessな世界をのぞいてみよう！
 
   https://speakerdeck.com/sugimount/lets-dive-serverless-world
